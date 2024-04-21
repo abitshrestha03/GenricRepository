@@ -1,0 +1,27 @@
+﻿@model ViewModel
+@{
+    int sn = 1;
+}
+<table class="w-full text-sm text-left rtl:text-right text-gray-500 mt-4 p-4">
+    <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+        <tr>
+            <th>Sno.</th>
+            <th>Book Name</th>
+            <th>Photo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            @if (Model.Users.BookIds.Contains((int)book.Id))
+            {      
+            <tr>
+                <td>@(sn++)</td>
+                <td>@(book.Title)</td>
+                <td><img src="@(Url.Content(book.Image))" height="70" width="70"/>
+                  </td>
+            </tr>
+            }
+        }
+    </tbody>
+</table>

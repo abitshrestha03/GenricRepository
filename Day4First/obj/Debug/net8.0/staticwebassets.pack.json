@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Day4First.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Day4First.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\099cbbe4-b4a1-437e-bd67-4d03bc8a6be4.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\099cbbe4-b4a1-437e-bd67-4d03bc8a6be4.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\38dbc3b6-3fef-44d8-af0d-82f5b252169f.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\38dbc3b6-3fef-44d8-af0d-82f5b252169f.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\6e970c88-25ab-485e-a45c-1c54cb424952.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\6e970c88-25ab-485e-a45c-1c54cb424952.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\914cda1c-734c-4c17-a9a2-5d7377d3215a.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\914cda1c-734c-4c17-a9a2-5d7377d3215a.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\ad26024d-b697-4ea1-b9c3-030e5e53667f.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\ad26024d-b697-4ea1-b9c3-030e5e53667f.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\b604be5b-d21a-444c-a999-3dfeea24f918.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\b604be5b-d21a-444c-a999-3dfeea24f918.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\b64e1233-2c2a-4923-8225-7cc1c753c2ec.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\b64e1233-2c2a-4923-8225-7cc1c753c2ec.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\book.png",
+      "PackagePath": "staticwebassets\\Image\\Upload\\book.png"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\c9151016-f875-4d5a-a923-d392bbfda0e4.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\c9151016-f875-4d5a-a923-d392bbfda0e4.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\comment.png",
+      "PackagePath": "staticwebassets\\Image\\Upload\\comment.png"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\d81e00e1-dd1b-45c5-9cf6-3b9a48fcfc69.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\d81e00e1-dd1b-45c5-9cf6-3b9a48fcfc69.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\fb2a15b4-4f2b-4fa2-959a-0c1f56e601ad.jpg",
+      "PackagePath": "staticwebassets\\Image\\Upload\\fb2a15b4-4f2b-4fa2-959a-0c1f56e601ad.jpg"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\heart.png",
+      "PackagePath": "staticwebassets\\Image\\Upload\\heart.png"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\Image\\Upload\\like.png",
+      "PackagePath": "staticwebassets\\Image\\Upload\\like.png"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Intern\\Day4First\\Day4First\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Day4First.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Day4First.props",
+      "PackagePath": "build\\Day4First.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Day4First.props",
+      "PackagePath": "buildMultiTargeting\\Day4First.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Day4First.props",
+      "PackagePath": "buildTransitive\\Day4First.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

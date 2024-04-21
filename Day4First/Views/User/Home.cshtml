@@ -1,0 +1,89 @@
+﻿@model ViewModel
+@inject IHttpContextAccessor _sessionContxt;
+
+<div class="text-center p-10">
+    <h1 class="font-bold text-4xl mb-4">Book Collections</h1>
+</div>
+
+<!-- ✅ Grid Section - Starts Here 👇 -->
+<section id="Projects"
+         class="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5">
+
+    @foreach (var data in Model.Books)
+    {
+        <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
+            <a href="#">
+                <img src="@Url.Content(data.Image)"
+                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
+                <div class="px-4 py-3 w-72">
+                    <span class="text-gray-400 mr-3 uppercase text-xs">@(data.Language)</span>
+                    <p class="text-lg font-bold text-black truncate block capitalize">@(data.Title)</p>
+                    <div class="flex items-center">
+                        @*                         <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
+                    *@                        <del>
+                            @*                             <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
+                        *@
+                        </del>
+                        <div class="ml-auto flex gap-3">
+
+                            <a href="/Comment/Comment?bookId=@(data.Id)">
+                                <img src="@Url.Content("~/Image/Upload/comment.png")" width="20" height="20" />
+                            </a>
+
+                            <form asp-controller="User" asp-action="AddFavorites" method="post">
+                                @if (_sessionContxt.HttpContext.Session.GetInt32("UserId") != null)
+                                {
+                                    <input type="hidden" name="Id" value="@(data.Id)" />
+                                    <button type="submit">
+                                        <a>
+                                        @if (Model.Users.BookIds.Contains((int)data.Id))
+                                        {
+                                            <i class="fas fa-heart"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="far fa-heart"></i>
+                                        }
+                                        </a>
+                                    </button>
+                                   
+                                    
+                                }
+                                else
+                                {
+                                    <i class="far fa-heart"></i>
+                                }
+                            </form>
+                            <form asp-action="LikeAddOrRemove" asp-controller="Book" method="post">
+                                <input type="hidden" name="Id" value="@(data.Id)" />
+                                <button type="submit">
+                                    <a>
+                                        @if (_sessionContxt.HttpContext.Session.GetInt32("UserId") != null)
+                                        {
+                                            if (data.LikedBy.Contains((int)_sessionContxt.HttpContext.Session.GetInt32("UserId")))
+                                            {
+                                                <i class="fas fa-thumbs-up"></i>
+                                            }
+                                            else
+                                            {
+                                                <i class="far fa-thumbs-up"></i>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <i class="far fa-thumbs-up"></i>
+                                        }
+                                    </a>
+                                </button>
+                            </form>
+                            <span>@data.LikedBy.Count</span>
+
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    }
+</section>
+
+
