@@ -1,0 +1,41 @@
+﻿@model List<Book>
+@{
+    int sn = 1;
+}
+
+<table class="min-w-full">
+    <thead class="bg-gray-100">
+        <tr>
+            <th class="py-3 px-4 font-semibold text-left">Sno.</th>
+            <th class="py-3 px-4 font-semibold text-left">Photo</th>
+            <th class="py-3 px-4 font-semibold text-left">Name</th>
+            <th class="py-3 px-4 font-semibold text-left">Genre</th>
+            <th class="py-3 px-4 font-semibold text-left">Language</th>
+            <th class="py-3 px-4 font-semibold text-left">Action</th>
+        </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-200">
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td class="py-3 px-4 font-semibold text-left">@(sn++)</td>
+                <td class="py-3 px-4 font-semibold text-left"><img src="@Url.Content(book.Image)" width="70" height="70" alt="Alternate Text" style="object-fit:cover !important" /></td>
+                <td class="py-3 px-4 font-semibold text-left">@(book.Title)</td>
+                <td class="py-3 px-4 font-semibold text-left">@(book.Genre)</td>
+                <td class="py-3 px-4 font-semibold text-left">@(book.Language)</td>
+                <td class="flex py-3 px-4 font-semibold text-left">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"><a href="/Author/Edit?Id=@(book.Id)">Edit</a></button>
+                    <form asp-action="Delete" method="get" asp-controller="Author" asp-route-id="@(book.Id)">
+                    <button class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded mx-2">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+

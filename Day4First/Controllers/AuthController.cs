@@ -111,5 +111,10 @@ namespace Day4First.Controllers
                 }
             }
         }
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Home", "User");
+        }
     }
 }

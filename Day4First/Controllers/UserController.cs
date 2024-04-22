@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Day4First.Controllers
 {
-    public class UserController:Controller
+    public class UserController : Controller
     {
         private readonly ApplicationDbContext _dbContext;
         public UserController(ApplicationDbContext dbContext)
@@ -26,6 +26,12 @@ namespace Day4First.Controllers
         {
             int BookId = Convert.ToInt32(book.Id);
             int UserId = Convert.ToInt32(HttpContext.Session.GetInt32("UserId"));
+            var LoggedIn = HttpContext.Session.GetString("IsLoggedIn");
+            if (LoggedIn != "true")
+            {
+                return RedirectToAction("Login", "Auth");
+            }
+
             User user = _dbContext.Users.FirstOrDefault(u => u.Id == UserId);
             if (user.BookIds.Contains(BookId))
             {
@@ -40,9 +46,13 @@ namespace Day4First.Controllers
         }
         public IActionResult BookCollection()
         {
-
-            List<Book> books = _dbContext.Books.ToList();
+            var LoggedIn = HttpContext.Session.GetString("IsLoggedIn");
             int UserId = Convert.ToInt32(HttpContext.Session.GetInt32("UserId"));
+            if (LoggedIn != "true")
+            {
+                return RedirectToAction("Login", "Auth");
+            }
+            List<Book> books = _dbContext.Books.ToList();
             User user = _dbContext.Users.FirstOrDefault(u => u.Id == UserId);
             var ViewModel = new ViewModel();
             ViewModel.Users = user;

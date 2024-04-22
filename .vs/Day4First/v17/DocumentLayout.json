@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "E:\\Intern\\Day4First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\user\\bookcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\user\\bookcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\author\\mybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\author\\mybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\user\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\migrations\\20240421101454_initial11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\migrations\\20240421101454_initial11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\shared\\userlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\views\\author\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\views\\author\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|e:\\intern\\day4first\\day4first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C07EB-205A-4C7E-BFFD-419C4FB26494}|Day4First\\Day4First.csproj|solutionrelative:day4first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,83 +50,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Day4First\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Day4First\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Day4First\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Day4First\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:06:22.563Z",
+              "WhenOpened": "2024-04-22T05:29:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\Home.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Author\\Home.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\Home.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Author\\Home.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T05:27:01.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLayout.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Shared\\UserLayout.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\UserLayout.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Shared\\UserLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:12:17.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T03:10:48.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Day4First\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Day4First\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:05:54.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\User\\Home.cshtml",
-              "RelativeDocumentMoniker": "Day4First\\Views\\User\\Home.cshtml",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\User\\Home.cshtml",
-              "RelativeToolTip": "Day4First\\Views\\User\\Home.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T11:50:03.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookCollection.cshtml",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\User\\BookCollection.cshtml",
-              "RelativeDocumentMoniker": "Day4First\\Views\\User\\BookCollection.cshtml",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\User\\BookCollection.cshtml",
-              "RelativeToolTip": "Day4First\\Views\\User\\BookCollection.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T10:52:17.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewModel.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Models\\ViewModel.cs",
-              "RelativeDocumentMoniker": "Day4First\\Models\\ViewModel.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Models\\ViewModel.cs",
-              "RelativeToolTip": "Day4First\\Models\\ViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:43:35.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Book.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Day4First\\Models\\Book.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Models\\Book.cs",
-              "RelativeToolTip": "Day4First\\Models\\Book.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:25:41.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\SearchController.cs",
-              "RelativeDocumentMoniker": "Day4First\\Controllers\\SearchController.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\SearchController.cs",
-              "RelativeToolTip": "Day4First\\Controllers\\SearchController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:24:40.213Z"
+              "WhenOpened": "2024-04-22T02:25:41.759Z"
             },
             {
               "$type": "Document",
@@ -140,58 +133,46 @@
               "RelativeDocumentMoniker": "Day4First\\Controllers\\AuthorController.cs",
               "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\AuthorController.cs",
               "RelativeToolTip": "Day4First\\Controllers\\AuthorController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:24:35.231Z"
+              "WhenOpened": "2024-04-22T01:33:59.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240421101454_initial11.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Migrations\\20240421101454_initial11.cs",
-              "RelativeDocumentMoniker": "Day4First\\Migrations\\20240421101454_initial11.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Migrations\\20240421101454_initial11.cs",
-              "RelativeToolTip": "Day4First\\Migrations\\20240421101454_initial11.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:14:55.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Day4First\\Controllers\\BookController.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Day4First\\Controllers\\BookController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:06:17.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Day4First\\Models\\User.cs",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Models\\User.cs",
-              "RelativeToolTip": "Day4First\\Models\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T10:01:13.976Z",
+              "DocumentIndex": 0,
+              "Title": "MyBooks.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\MyBooks.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Author\\MyBooks.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Author\\MyBooks.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Author\\MyBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T01:31:07.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Day4First\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Day4First\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE8AAAAdAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Day4First\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Day4First\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:29:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day4First\\Day4First\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Day4First\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "E:\\Intern\\Day4First\\Day4First\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "Day4First\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T10:51:55.885Z"
+              "WhenOpened": "2024-04-22T06:01:42.488Z"
             }
           ]
         }

@@ -140,3 +140,4 @@ E:\Intern\Day4First\Day4First\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.
 E:\Intern\Day4First\Day4First\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
 E:\Intern\Day4First\Day4First\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\Intern\Day4First\Day4First\obj\Debug\net8.0\Day4First.MvcApplicationPartsAssemblyInfo.cs
+E:\Intern\Day4First\Day4First\obj\Debug\net8.0\Day4First.sourcelink.json
